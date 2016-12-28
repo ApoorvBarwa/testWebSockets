@@ -9,5 +9,7 @@
     <body>
         <button id="helloButton">hello</button>
         <div id="helloDiv"></div>
+
+        <button id="testwebsocket">test</button>
     </body>
 </html>
